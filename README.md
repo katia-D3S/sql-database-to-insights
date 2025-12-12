@@ -3,6 +3,7 @@ Building a relational database from scratch, cleaning and transforming the data,
 
 In this project, we worked with the dataset extracted from Reddit in May 2015, which contains over 4 millions rows. Our first objective is to construct and manage a large-scale dataset in an optimized database structure; and second, to develop hands-on experience in exploring big data using SQL queries.
 To achieve these objectives, we began by designing a comprehensive database schema that could accurately model the complex relationships within the data.
+
 <img width="1010" height="590" alt="schema (1)" src="https://github.com/user-attachments/assets/01b16855-e73f-43a5-b252-2d9d362d6b5e" />
 
 
