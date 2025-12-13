@@ -6,7 +6,6 @@ To achieve these objectives, we began by designing a comprehensive database sche
 
 <img width="1010" height="590" alt="schema (1)" src="https://github.com/user-attachments/assets/01b16855-e73f-43a5-b252-2d9d362d6b5e" />
 
-
 We then created tables based on this schema, imported the dataset into these tables, and conducted initial explorations to gain insights into the structure and content of the data. Additionally, we selected a smaller representative sample from the full database.
 
 Following our database work, we moved on to the natural language processing (NLP) component of the project. In this phase, we applied various NLP techniques to analyze the comments. This approach allows us to uncover key aspects of the dataset, including the detection of flagged comments, the underlying scoring mechanism of comments, and the identification of popular topics within the Reddit community.
